@@ -1,37 +1,23 @@
-# Getting Started with Create React App
+# Web3.storage Uploader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple web application that allows you to upload files to the Web3.storage decentralized storage network using their API.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+To use this application, you will need an API token from Web3.storage. You can sign up for a free account and generate an API token [here](https://web3.storage/).
 
-### `npm start`
+Once you have your API token, you can start using the uploader by following these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone or download this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Enter your API token in the input field provided.
+4. Click the "Choose Files" button to select the files you want to upload.
+5. Click the "Upload" button to upload the selected files to the Web3.storage network.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contributing
 
-### `npm test`
+If you would like to contribute to this project, you can do so by forking the repository and making your changes. Once you are finished, submit a pull request and we will review your changes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
