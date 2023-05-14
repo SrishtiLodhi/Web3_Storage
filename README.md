@@ -1,6 +1,6 @@
 # Web3.storage Uploader
 
-This is a simple web application that allows you to upload files to the Web3.storage decentralized storage network using their API.
+This is a simple web application that allows you to upload files to the Web3.storage which is a decentralized storage network using API.
 
 ## Getting Started
 
